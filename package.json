@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1904labs/dom-to-image-more.git"
+    "url": "git+https://github.com/wrick17/dom-to-image-more.git"
   },
   "keywords": [
     "dom",
@@ -45,11 +45,12 @@
     "Daniel Fischer <daniel.fischer@iqdoq.de>",
     "Aidas Klimas",
     "Edgardo Di Gesto",
-    "樊冬 Fan Dong <CG-man@outlook.com>"
+    "樊冬 Fan Dong <CG-man@outlook.com>",
+    "Pratyush Poddar <wrick17@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/1904labs/dom-to-image-more/issues"
+    "url": "https://github.com/wrick17/dom-to-image-more/issues"
   },
-  "homepage": "https://github.com/1904labs/dom-to-image-more#readme"
+  "homepage": "https://github.com/wrick17/dom-to-image-more#readme"
 }
